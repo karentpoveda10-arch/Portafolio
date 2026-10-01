@@ -9,13 +9,10 @@ Estudiante de Ingenieria de Telecomunicaciones
 Proyecto de procesamiento de imagenes utilizando Python.
 [Ver proyecto](https://github.com/karentpoveda10-arch/Trabajos-Procesamiento)
 
-### MATLAB - Senales y Sistemas
-Ejercicios y practicas de procesamiento de senales.
-[Ver proyecto]
+### PYTHON - Trabajos diseño digital avanzado 
+Ejercicios y practicas realizados en la materia de diseño digital avanzado usando diferentes metodos.
+[Ver proyecto](https://github.com/karentpoveda10-arch/Trabajos-dise-o-digital-avanzado)
 
-### Automatizacion
-Proyectos relacionados con electronica, control y automatizacion.
-[Ver proyecto]
 
-### Otros proyectos
-[Ver todos mis repositorios]
+### Trabajos Netbeans
+[Ver todos mis repositorios](https://github.com/karentpoveda10-arch/Trabajos-Netbeans)

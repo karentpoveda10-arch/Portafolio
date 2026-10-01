@@ -7,7 +7,7 @@ Estudiante de Ingenieria de Telecomunicaciones
 
 ### Procesamiento de imagenes
 Proyecto de procesamiento de imagenes utilizando Python.
-[Ver proyecto]
+[Ver proyecto](https://github.com/karentpoveda10-arch/Trabajos-Procesamiento)
 
 ### MATLAB - Senales y Sistemas
 Ejercicios y practicas de procesamiento de senales.
